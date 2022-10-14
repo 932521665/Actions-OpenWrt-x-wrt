@@ -1,5 +1,4 @@
 src-git-full packages https://github.com/x-wrt/packages.git
-# fork的分支
 src-git-full luci https://github.com/932521665/x-wrt-luci
 src-git-full routing https://github.com/x-wrt/routing.git
 src-git-full telephony https://github.com/x-wrt/telephony.git
