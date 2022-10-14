@@ -1,11 +1,6 @@
-#src-git-full packages https://github.com/x-wrt/packages.git
-#src-git-full luci https://github.com/932521665/x-wrt-luci.git
-#src-git-full luci https://github.com/coolsnowwolf/luci.git
-#src-git-full routing https://github.com/x-wrt/routing.git
-#src-git-full telephony https://github.com/x-wrt/telephony.git
-#src-git-full x https://github.com/x-wrt/com.x-wrt.git
+rc-git-full packages https://github.com/x-wrt/packages.git
+src-git-full luci https://github.com/932521665/x-wrt-luci.git
+src-git-full routing https://github.com/x-wrt/routing.git
+src-git-full telephony https://github.com/x-wrt/telephony.git
+src-git-full x https://github.com/x-wrt/com.x-wrt.git
 
-src-git packages https://github.com/coolsnowwolf/packages
-src-git luci https://github.com/coolsnowwolf/luci
-src-git routing https://github.com/coolsnowwolf/routing
-src-git telephony https://git.openwrt.org/feed/telephony.git
